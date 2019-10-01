@@ -15,7 +15,7 @@ export default createGlobalStyle`
   html, body, #root {
     min-height: 100%;
     margin: 0 auto;
-    padding: 0 20px 50px 5px;
+    padding: 0 20px 50px;
   }
 
   body {
