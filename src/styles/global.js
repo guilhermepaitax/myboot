@@ -14,9 +14,8 @@ export default createGlobalStyle`
 
   html, body, #root {
     min-height: 100%;
-    max-width: 1020px;
     margin: 0 auto;
-    padding: 0 20px 50px;
+    padding: 0 20px 50px 5px;
   }
 
   body {
@@ -27,7 +26,6 @@ export default createGlobalStyle`
   }
 
   body, input, button {
-    color: #3F3F42;
     font-size: 14px;
     font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   }
