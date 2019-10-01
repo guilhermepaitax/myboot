@@ -29,7 +29,7 @@ export const Container = styled.div`
   }
 `;
 
-export const ProductTable = styled.div`
+export const ProductTable = styled.table`
   width: 100%;
 
   thead th {
