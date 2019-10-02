@@ -31,5 +31,6 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/state-in-constructor': [0, 'always'],
     'react/static-property-placement': 'off',
+    'no-console': ["error", { allow: ["tron"] }],
   }
 };
